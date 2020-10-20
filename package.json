@@ -15,7 +15,7 @@
   "author": "Ken MWaura",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.12.0"
+    "nodemon": "^2.0.6"
   },
   "dependencies": {
     "body-parser": "^1.18.0",
