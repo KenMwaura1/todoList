@@ -15,13 +15,13 @@
   "author": "Ken MWaura",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.12.0"
+    "nodemon": "^2.0.12"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
-    "mongoose": "^4.11.11",
+    "mongoose": "^5.7.5",
     "path": "^0.12.7"
   }
 }
